@@ -1,4 +1,4 @@
-**Product Catalog**
+## Product Catalog
 A full-stack product catalog web application that allows users to add, edit, and delete products, each with an image, name, and price. Built using the MERN stack (MongoDB, Express, React, Node.js) with a clean UI.
 
 ## Tech Stack
@@ -18,10 +18,11 @@ A full-stack product catalog web application that allows users to add, edit, and
 
 1. **Clone the repository**:
    git clone https://github.com/HavishGuntreddi/product-catalog
+
    cd product-catalog
    
 3. **Install dependencies**
-   Run:
+   <br>Run:
    # npm install
    
 5. **Add environment variable**
